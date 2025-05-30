@@ -473,6 +473,7 @@ export default function ModularKitchenWebsite() {
                 Transforming homes with innovative modular kitchen solutions. Where design meets functionality.
               </p>
               <div className="text-sm text-muted-foreground transition-colors duration-700">© 2024 Dhiman Kitchen House. All rights reserved.</div>
+              <div className="text-sm text-muted-foreground transition-colors duration-700">Designed By Mehul Bansal:)</div>
             </div>
             <div>
               <h4 className="font-semibold text-foreground mb-4 transition-colors duration-700">Contact</h4>
