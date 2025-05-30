@@ -163,9 +163,11 @@ export default function ModularKitchenWebsite() {
               >
                 Explore Design <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
-              <Button variant="outline" size="lg" className="px-8 py-4 text-lg">
-                Watch Video
-              </Button>
+              <a href="https://www.youtube.com/@DhimanKitchenHouse" target="_blank" rel="noopener noreferrer">
+                <Button variant="outline" size="lg" className="px-8 py-4 text-lg">
+                  Watch Video
+                </Button>
+              </a>
             </div>
           </div>
           <div
